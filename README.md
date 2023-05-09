@@ -46,7 +46,7 @@ Não existe certo ou errado, queremos saber como você se sai em situações rea
 
 # Como iniciar o desenvolvimento
 
-- **Fork** esse repositório na sua conta do BitBucket;
+- **Fork** esse repositório na sua conta do Gitlab;
 - Crie uma branch com o nome **desafio**.
 
 # Como enviar seu teste
