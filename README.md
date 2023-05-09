@@ -51,7 +51,7 @@ Não existe certo ou errado, queremos saber como você se sai em situações rea
 
 # Como enviar seu teste
 
-Envie um email para [ecio@arqmedesconsultoria.com] com o link do seu repositório.
+Envie um email para [ecio@arqmedesconsultoria.com.br] com o link do seu repositório.
 
 O repositório do teste precisa ser público.
 
