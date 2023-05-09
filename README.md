@@ -34,6 +34,7 @@ Não existe certo ou errado, queremos saber como você se sai em situações rea
 - Gerar logs das ações;
 - Testes automatizados com informação da cobertura de testes;
 - Upload de imagem no cadastro de produtos;
+- Rotina de importação de produtos no arquivo CSV (assets/import.csv).
 
 # O que será avaliado
 
