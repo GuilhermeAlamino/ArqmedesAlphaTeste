@@ -1,0 +1,1 @@
+-- DDL de criação das tabelas do banco de dados
