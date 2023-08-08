@@ -161,7 +161,7 @@ if (isset($_SESSION['edit_product_id'])) {
     </div>
     <div class="actions-form">
       <a href="?view=products" class="action back">Back</a>
-      <input class="btn-submit btn-action" type="submit" value="Save Product" />
+      <input class="btn-submit btn-action" type="submit" value="Update" />
     </div>
   </form>
 </main>

@@ -1,0 +1,308 @@
+Conexão com database com sucesso
+
+Gerando as categorias 
+
+Conexão com database com sucesso
+
+Categoria deletada com sucesso: ID=5
+
+Conexão com database com sucesso
+
+Gerando as categorias 
+
+Conexão com database com sucesso
+
+Categoria deletada com sucesso: ID=4
+
+Conexão com database com sucesso
+
+Gerando as categorias 
+
+Conexão com database com sucesso
+
+Gerando relação produtos com categorias
+
+Conexão com database com sucesso
+
+Produto deletado com sucesso: ID=2
+
+Conexão com database com sucesso
+
+Gerando relação produtos com categorias
+
+Conexão com database com sucesso
+
+Conexão com database com sucesso
+
+Gerando as categorias 
+
+Conexão com database com sucesso
+
+Conexão com database com sucesso
+
+Campo de atualização dos Produtos vazio:
+
+Conexão com database com sucesso
+
+Gerando as categorias 
+
+Conexão com database com sucesso
+
+Conexão com database com sucesso
+
+Gerando relação produtos com categorias
+
+Conexão com database com sucesso
+
+Gerando as categorias 
+
+Conexão com database com sucesso
+
+Conexão com database com sucesso
+
+Conexão com database com sucesso
+
+Importação efetuada de produtos e categorias
+
+Conexão com database com sucesso
+
+Importação efetuada de produtos e categorias
+
+Conexão com database com sucesso
+
+Importação efetuada de produtos e categorias
+
+Conexão com database com sucesso
+
+Importação efetuada de produtos e categorias
+
+Conexão com database com sucesso
+
+Importação efetuada de produtos e categorias
+
+Conexão com database com sucesso
+
+Importação efetuada de produtos e categorias
+
+Conexão com database com sucesso
+
+Importação efetuada de produtos e categorias
+
+Conexão com database com sucesso
+
+Gerando as categorias 
+
+Conexão com database com sucesso
+
+Gerando as categorias 
+
+Conexão com database com sucesso
+
+Gerando as categorias 
+
+Conexão com database com sucesso
+
+Categoria adicionada com sucesso: name=hahah, Code=123
+
+Conexão com database com sucesso
+
+Gerando as categorias 
+
+Conexão com database com sucesso
+
+Categoria adicionada com sucesso: name=eitaa, Code= 123456
+
+Conexão com database com sucesso
+
+Gerando as categorias 
+
+Conexão com database com sucesso
+
+Gerando as categorias 
+
+Conexão com database com sucesso
+
+Produto adicionado com sucesso: SKU=654564564, Nome=tenis guilherme
+
+Conexão com database com sucesso
+
+Gerando relação produtos com categorias
+
+Conexão com database com sucesso
+
+Importação efetuada de produtos e categorias
+
+Conexão com database com sucesso
+
+Importação efetuada de produtos e categorias
+
+Conexão com database com sucesso
+
+Importação efetuada de produtos e categorias
+
+Conexão com database com sucesso
+
+Gerando relação produtos com categorias
+
+Conexão com database com sucesso
+
+Gerando as categorias 
+
+Conexão com database com sucesso
+
+Gerando as categorias 
+
+Conexão com database com sucesso
+
+Gerando as categorias 
+
+Conexão com database com sucesso
+
+Gerando as categorias 
+
+Conexão com database com sucesso
+
+Produto adicionado com sucesso: SKU=12312, Nome=asdasd
+
+Conexão com database com sucesso
+
+Gerando relação produtos com categorias
+
+Conexão com database com sucesso
+
+Conexão com database com sucesso
+
+Gerando as categorias 
+
+Conexão com database com sucesso
+
+Conexão com database com sucesso
+
+Campo de atualização dos Produtos vazio:
+
+Conexão com database com sucesso
+
+Gerando as categorias 
+
+Conexão com database com sucesso
+
+Conexão com database com sucesso
+
+Gerando as categorias 
+
+Conexão com database com sucesso
+
+Conexão com database com sucesso
+
+Campo de atualização dos Produtos vazio:
+
+Conexão com database com sucesso
+
+Gerando as categorias 
+
+Conexão com database com sucesso
+
+Conexão com database com sucesso
+
+Gerando as categorias 
+
+Conexão com database com sucesso
+
+Conexão com database com sucesso
+
+Campo de atualização dos Produtos vazio:
+
+Conexão com database com sucesso
+
+Gerando as categorias 
+
+Conexão com database com sucesso
+
+Conexão com database com sucesso
+
+Produto atualizado com sucesso: ID=1
+
+Conexão com database com sucesso
+
+Gerando relação produtos com categorias
+
+Conexão com database com sucesso
+
+Gerando relação produtos com categorias
+
+Conexão com database com sucesso
+
+Conexão com database com sucesso
+
+Gerando as categorias 
+
+Conexão com database com sucesso
+
+Conexão com database com sucesso
+
+Produto atualizado com sucesso: ID=1
+
+Conexão com database com sucesso
+
+Gerando relação produtos com categorias
+
+Conexão com database com sucesso
+
+Conexão com database com sucesso
+
+Gerando as categorias 
+
+Conexão com database com sucesso
+
+Conexão com database com sucesso
+
+Gerando relação produtos com categorias
+
+Conexão com database com sucesso
+
+Produto deletado com sucesso: ID=2
+
+Conexão com database com sucesso
+
+Gerando relação produtos com categorias
+
+Conexão com database com sucesso
+
+Gerando as categorias 
+
+Conexão com database com sucesso
+
+Conexão com database com sucesso
+
+Conexão com database com sucesso
+
+Categoria atualizada com sucesso: ID=1, name=hahah, Code=1236
+
+Conexão com database com sucesso
+
+Gerando as categorias 
+
+Conexão com database com sucesso
+
+Conexão com database com sucesso
+
+Conexão com database com sucesso
+
+Categoria atualizada com sucesso: ID=1, name=hahah1, Code=1236
+
+Conexão com database com sucesso
+
+Gerando as categorias 
+
+Conexão com database com sucesso
+
+Categoria deletada com sucesso: ID=2
+
+Conexão com database com sucesso
+
+Gerando as categorias 
+
+Conexão com database com sucesso
+
+Gerando relação produtos com categorias
+
