@@ -1,62 +1,48 @@
 # ArqmedesAlphaTeste
 
-# Você quer ser um desenvolvedor na Arqmedes?
+# Clone o projeto
 
-Criamos esse teste para avaliar seus conhecimentos e habilidades como desenvolvedor FullStack.
+git clone {{url do projeto do github ou gitlab}}
+
+Dentro do diretorio do projeto, execute o comando abaixo pois ele já vai gerar toda a estrutura do db e iniciar o projeto na porta localhost:8009
+
+# Como rodar o projeto
+
+Tenha o Docker :) rodando em background ou da maneira que preferir, execute o comando docker-compose up -d dentro da pasta do projeto
 
 # O teste
 
-O desafio é desenvolver um sistema de gerenciamento de produtos. Esse sistema será composto de um cadastro de produtos e categorias. Os requisitos desse sistema estão listados nos tópicos abaixo.
-Não existe certo ou errado, queremos saber como você se sai em situações reais como esse desafio.
+Esse sistema será composto por alguns cadastros (produtos e categorias). Optei pela seguinte regra o produto só é criado se todos os campos forem preenchidos, ou seja deve haver categorias na hora de criar um produto. então as categorias poderam ser (criadas).
 
-# Instruções
+Optei por utilizar o mesmo padrão de styles e views, tambem pensei em algo similiar ao mvc portanto funcionando de forma diferente da convencional como por exemplo chamada de *routas*.
 
-- O foco principal do nosso teste é o backend. Para facilitar, você poderá utilizar os arquivos html  disponíveis no diretório assets;
-- Crie essa aplicação como se fosse uma aplicação real, que seria utilizada pela Arqmedes;
-- Fique à vontade para usar bibliotecas/componentes externos (composer);
-- **Não utilize** nenhum Framework, tais como Laravel, Lumen ou Symfony;
-- Procure seguir os princípios **SOLID**;
-- Utilize boas práticas de programação;
-- Utilize boas práticas de git;
-- Documente como rodar o projeto;
-- Crie uma documentação simples comentando sobre as tecnologias, versões e soluções adotadas.
+Mas entretanto, consegui criar uma solução para as chamadas views e controllers para manipular as ações.
 
-# Requisitos
+A estrutura do projeto está assim :
 
-- O sistema deverá ser desenvolvido utilizando o PHP e o MySQL nas versões definidas no arquivo docker-compose.yaml;
-- Você deve criar um CRUD que permita cadastrar as seguintes informações:
-  - **Produto**: Nome, SKU (Código), preço, descrição, quantidade e categoria (cada produto pode conter uma ou mais categorias)
-  - **Categoria**: Código e nome.
-- Salvar as informações necessárias em um banco de dados (relacional ou não), de sua escolha.
+1. app {<br>
+        1.1 controllers -> ações de update create delete e read (para cada controller)<br>
+        1.2 database -> implementação de conexão com o banco de dados rodando no docker<br>
+        1.3 Views -> chamadas das views em php<br>
+    }
+2. public {<br>
+        2.1 css -> vamos ter aqui os estilos<br>
+        2.2 images -> imagens default do projeto que funcionam nas views<br>
+        2.3 index -> implementação das views e controllers<br>
+   }
 
-# Opcionais
+docker-compose.yaml -> optei somente por organizar o network pra funcionar na rede predestinada.
 
-- Gerar logs das ações;
-- Testes automatizados com informação da cobertura de testes;
-- Upload de imagem no cadastro de produtos;
-- Rotina de importação de produtos no arquivo CSV (import.csv).
+error_log.txt -> logs simples de ações dentro dos controllers, e conexões com o banco, e geração de importações do banco ao import.csv.
 
-# O que será avaliado
+export.php -> está a lógica para fazer a importação e iterar sobre os dados já existentes, utilize o command "*php export.php*"(arqmedes-app) utilizei dentro do container rodando e intrepretando o php.
 
-- Estrutura e organização do código e dos arquivos;
-- Soluções adotadas;
-- Tecnologias utilizadas;
-- Qualidade;
-- Padrões PSR, Design Patterns;
-- Enfim, tudo será observado e levado em conta.
+se quiser acessar o banco de dados por algum software vou deixar as configs abaixo.
 
-# Como iniciar o desenvolvimento
+servidor/ip : 127.0.0.1
 
-- **Fork** esse repositório na sua conta do Gitlab;
-- Crie uma branch com o nome **desafio;**
-- Clone a sua versão do repositório para seu ambiente de desenvolvimento local;
-- Suba o ambiente com o docker-compose;
-- OBS: Caso a mensagem de erro "network arqmedes declared as external, but could not be found" seja apresentada, crie a rede manualmente, e volte a executar o comando para subir o ambiente.
+usuário : arqmedes_alpha
 
-# Como enviar seu teste
+senha : 12345678
 
-Envie um email para [ecio@arqmedesconsultoria.com.br] com o link do seu repositório.
-
-O repositório do teste precisa ser público.
-
-Tendo qualquer dúvida sobre o teste, fique à vontade para entrar em contato conosco.
+agradeço desde já!
